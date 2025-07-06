@@ -1,0 +1,1 @@
+# OpenSuse-add-packman-simply
