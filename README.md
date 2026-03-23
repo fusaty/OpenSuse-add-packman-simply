@@ -2,7 +2,7 @@
 
 After a fresh install of openSUSE Tumbleweed, some media content (such as videos in Firefox) may not play properly due to missing proprietary codecs. This is a common issue that can be resolved by enabling the **Packman** repository and switching the relevant packages to it.
 
-This guide provides the necessary commands to enable Packman and perform a vendor switch to ensure proper multimedia support.
+This repo contains the necessary commands to enable Packman and perform a vendor switch to ensure proper multimedia support.
 
 ---
 
